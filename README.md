@@ -32,7 +32,7 @@ Data mahasiswa disimpan dalam list `mahasiswa`, yang berisi dictionary dengan ku
 - Mengubah nilai mahasiswa berdasarkan nama.
 - Mencari mahasiswa dalam daftar dan mengubah nilainya jika ditemukan.
 
-## Contoh dan Outpu Penggunaan :
+## Contoh dan Output Penggunaan :
 Program menambahkan lima mahasiswa dengan nilai mereka, menampilkan daftar mahasiswa, mengubah nilai mahasiswa, menghapus data mahasiswa, dan menampilkan daftar terakhir setelah perubahan.
 
 ![result](https://github.com/user-attachments/assets/1b9a3669-5f57-448e-9203-52102a69534c)
